@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アイソトープ",
+  "base_artist": "r-906 feat. 可不",
+  "createdAt": "2025-12-30T05:36:53.879452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイソトープ",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_アイソトープ_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイソトープ",
+      "artist": "syudou feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_アイソトープ_syudou_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイソトープ",
+      "artist": "ACIDMAN",
+      "has_synced": true,
+      "path": "select/03_アイソトープ_ACIDMAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイソトープ",
+      "artist": "r-906 feat. 可不",
+      "has_synced": false,
+      "path": "select/pl_01_アイソトープ_r-906_feat._可不.txt"
+    }
+  ]
+}
